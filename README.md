@@ -134,6 +134,7 @@ Agora você pode testar seu serviço implantado.
 ### 2 - Na página de ponto de extremidade em tempo real de aluguéis de previsão, exiba a guia Teste.
 
 ### 3 - No painel Dados de entrada para testar o ponto de extremidade, substitua o modelo JSON pelos seguintes dados de entrada:
+https://github.com/XlfelipeX/Laboratorio-IA900/blob/main/JSON
 
 ### 4 - Clique no botão Testar.
 
