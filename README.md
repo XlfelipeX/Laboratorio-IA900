@@ -2,7 +2,8 @@
 
 ### Aprendizado de Máquina Automatizado no Azure
 
-- Documentação utilizada para executar esse processo https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+- Documentação utilizada para executar esse processo:
+- https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 
 ### 1 - Entre no portal do Azure "https://portal.azure.com" usando suas credenciais da Microsoft.
 
